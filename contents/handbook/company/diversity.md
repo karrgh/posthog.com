@@ -47,7 +47,7 @@ We don't just state that we care - these are some of the things we've implemente
 * [Asynchronous and transparent communication](/handbook/company/communication) - so people can get the context they need to work effectively across multiple time zones and on schedules that suit them.
 * [Unlimited vacation policy](/handbook/people/time-off/#permissionless-time-off) with mandatory minimum time off - so you can fit work around your life.
 * [Flexible hours](/handbook/people/time-off#flexible-working) - so you can do the daily school run, or schedule a dentist appointment. 
-* Very [generous parental leave](/handbook/people/time-off/#parental-leave) - so those raising families can do so while still working for us. We also extended our bereavement leave to cover [pregnancy loss](/handbook/people/time-off#bereavements--child-loss), as sometimes live doesn't work as we plan it.
+* Very [generous parental leave](/handbook/people/time-off/#parental-leave) - so those raising families can do so while still working for us. We also extended our bereavement leave to cover [pregnancy loss](/handbook/people/time-off#bereavements--child-loss), as sometimes life doesn't work as we plan it.
 * Very generous and [transparent pay](/handbook/people/compensation) - to reduce the financial stress that often comes with working for startups, or prevents many from even applying.
 * Proactive recruitment to encourage underrepresented groups of people to apply - so we are meeting with a balanced group of applicants for every role.
 * Anyone can contribute to [our handbook](/handbook/) - so if we miss something, others can ask for a change in our policy!
